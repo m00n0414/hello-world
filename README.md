@@ -2,10 +2,10 @@
 これはシステム開発のために作成された練習用リポジトリーです
 
 
-# これは最初の分岐　feature brunch
+# これは最初の分岐　feature branch
 
-こんにちは、私は vuser1 です。練習のためにコメントをfeature brunchからmain brunchへの統合を提案します。
-そして、これは最初の feature brunch の REDME でのはじめての変更操作の保存です
+こんにちは、私は vuser1 です。練習のためにコメントをfeature branchからmain branchへの統合を提案します。
+そして、これは最初の feature branch の REDME でのはじめての変更操作の保存です
 
 以下は様々の Markdown Syntax テストです
 
